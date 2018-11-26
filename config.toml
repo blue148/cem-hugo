@@ -1,0 +1,4 @@
+baseURL = "http://cem-hugo.netlify.com/"
+languageCode = "en-us"
+title = "CEM Landing Pages"
+theme = "cem-pages"
