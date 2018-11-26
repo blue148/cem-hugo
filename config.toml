@@ -1,4 +1,4 @@
-baseURL = "http://cem-hugo.netlify.com/"
+baseURL = "http://bluehugo.netlify.com/"
 languageCode = "en-us"
 title = "CEM Landing Pages"
 theme = "cem-pages"
