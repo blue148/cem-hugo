@@ -147,6 +147,11 @@ div.asideBlock{
 	width:50%;
 	
 }
+.icon{
+	display:inline-block;
+	width:2em;
+	height:2em;
+	}
 .h3{
     color: #2571be;
     font-size: 17px;
